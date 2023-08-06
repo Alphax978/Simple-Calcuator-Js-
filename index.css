@@ -1,0 +1,131 @@
+.calculator{
+    background-color: #4a4b5d;
+    height: 550px;
+    width: 450px;
+    align-content: center;
+    margin: auto;
+    padding: 10px;
+    margin-top: 70px;
+    border-radius: 5px;
+}
+
+.c_display{
+    background-color: #7d8d8c;
+    margin-top:19px;
+    width: 410px;
+    height: 100px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 4px;
+
+
+}
+
+.display__item{
+    padding-top: 40px;
+    padding-left: 200px;
+    font-size: 20px;
+    
+}
+
+.c_body{
+    background-color: wheat;
+    width: 410px;
+    height: 390px;
+    margin-top: 19px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+
+
+
+}
+.c_signs{
+    /* background-color: red; */
+    width: 400px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    padding-top: 10px;
+    /* display: flex;
+    flex-direction: row; */
+
+}
+
+.c_number{
+    /* background-color: red; */
+    width: 390px;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.numberrow{
+    margin-top:10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 370px;
+    height: 50px;
+    /* background-color: beige; */
+    padding-left: 5px;
+    padding-top: 4px;
+
+   
+   
+
+}
+
+
+
+
+.numberrow > button{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+
+.btns{
+    width: 50px;
+    color: white;
+    background-color: #bfbfc1;
+    border-radius: 3px;
+    height: 30px;
+}
+
+
+.firstrow{
+    margin-bottom: 20px;
+    padding-left: 120px;
+
+}
+
+.secondrow{
+    padding-left: 28px;
+
+}
+
+.bttns{
+    background-color: #bfbfc1;
+    border-radius: 3px;
+    height: 20px;
+    width: 70px;
+    color: white;
+
+}
+
+.bttns1{
+    background-color: #bfbfc1;
+    border-radius: 3px;
+    height: 35px;
+    width: 160px;
+    color: white;
+
+}
+
+
